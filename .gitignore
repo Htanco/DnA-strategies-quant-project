@@ -1,0 +1,20 @@
+# Secrets / environment variables
+.env
+.env.*
+!.env.example
+
+# Confidential — original task briefs are covered by an NDA, never commit them
+task-brief.pdf
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store

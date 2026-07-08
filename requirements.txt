@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+yfinance
+fredapi
+python-dotenv
+jupyter
